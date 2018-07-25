@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <title>Upacara Bendera 17 Agustus 2018</title>
-        <meta name="description" content="Dashboard UI Kit">
+        <meta name="description" content="Ayo Daftar Segera Upacara 17 Agustus : FRE SKKM">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <!-- Google Font -->
